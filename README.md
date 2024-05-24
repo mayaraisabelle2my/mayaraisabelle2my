@@ -1,4 +1,8 @@
-## Hi there 👋
+## **seja bem vindo**💟
+### sou uma pessoa bem alegre e sou aluna da _alura_
+### meu e-mail 📧
+- 00001119353762sp@al.educacao.sp.gov.br
+  ![](https://tenor.com/pt-BR/view/bubu-dudu-bubu-dudu-love-dudu-bubu-love-dudu-love-bubu-love-dudu-bubu-gif-388489720610011907)
 
 <!--
 **mayaraisabelle2my/mayaraisabelle2my** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
